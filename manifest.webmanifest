@@ -1,0 +1,11 @@
+{
+  "name": "Diego Gomes - Engenharia e Projetos",
+  "short_name": "Diego Gomes",
+  "start_url": "/",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"],
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "any",
+  "description": "Soluções completas em engenharia civil, projetos executivos BIM, assessoria Caixa e acompanhamento técnico."
+}
